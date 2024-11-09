@@ -5,11 +5,11 @@ const CONFIG = {
     I hope, you will give me a chance to change myself.
     I hope we can make peace with each other. however, the choice is yours`,
     btnIntro: '^^HiHi^^',
-    title: 'I'm sorry don't leave me  🥰',
+    title: 'I'm sorry dont leave me  🥰',
     desc: 'I love you so much ',
     btnYes: 'Tha lỗi <3',
     btnNo: 'Không nha',
-    question: 'Em chọn tha lỗi cho anh ròi thì anh cũng hy vọng em cũng sẽ thay đổi để in the future we have each other and have a happy life :3 ',
+    question: 'I hope in the future we have each other and have a happy life :3 ',
     btnReply: 'Gửi cho aiu',
     reply: 'Em cũng xin lỗi vì đã làm tổn thương anh,em sẽ hạ cái tôi xuống và lắng nghe anh nhiều hơn để hiểu anh hơn',
     mess: 'mãi iu à <3',
