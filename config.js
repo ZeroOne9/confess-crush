@@ -12,7 +12,7 @@ const CONFIG = {
     btnReply: 'Gửi cho aiu <3',
     reply: 'Em cũng xin lỗi vì đã làm tổn thương anh,em sẽ hạ cái tôi xuống và lắng nghe anh nhiều hơn để hiểu anh hơn',
     mess: 'Cảm ơn vì đã cho anh cơ hội🥰. Yêu em bự 😘😘',
-    messDesc: 'Anh qua đón em đi chơi nhe.if you are in VietNam hihi',
+    messDesc: 'Anh qua đón em đi chơi nhe.if you are in VietNam hihi.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/XcrossSaber00/' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
